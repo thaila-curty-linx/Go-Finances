@@ -1,6 +1,6 @@
 # Go-Finances (React)
 
-<a href="https://objective-dijkstra-7a5307.netlify.app/">Link Go Finances</a>
+<a href="https://objective-dijkstra-7a5307.netlify.app/">Go Finances</a>
 
 </br> 
 
